@@ -40,7 +40,8 @@ My repository includes the following files:
         
 ## Links
 
-[Repository](https://github.com/IgnacioRus/Project-Week-5-Your-Own-Project)
-[Tableau](https://public.tableau.com/profile/ignacio7276#!/vizhome/ProjectStockmarket-1/Dashboard1) 
-[Slides](hhttps://www.canva.com/design/DAEc5AQqs98/MXQTE-GxnQV3n4vbLp9_Gg/edit)  
+[Repository](https://github.com/IgnacioRus/Project-Week-6)
+
+[Tableau](https://public.tableau.com/profile/ignacio7276#!/vizhome/ProjectStockmarket-1/Dashboard1)
+
 [Trello](https://trello.com/b/GXR6sKA4/project-week-6)
